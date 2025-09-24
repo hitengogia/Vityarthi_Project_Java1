@@ -18,7 +18,7 @@ public class Main {
 
         // --- Manage a list of students ---
         List<Student> studentList = new ArrayList<>();
-        studentList.add(new Student(1, "Anshika Tiwari", "anshika1009@gmail.com", "Student", "Computer Science", 9.1));
+        studentList.add(new Student(1, "Aarush Kumar", "aarush1009@gmail.com", "Student", "Computer Science", 9.1));
         studentList.add(new Student(2, "Rahul Verma", "rahul@example.com", "Student", "Information Technology", 8.5));
         studentList.add(new Student(3, "Simran Kaur", "simran@example.com", "Student", "Electronics", 8.8));
 
